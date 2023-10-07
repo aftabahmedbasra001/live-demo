@@ -80,6 +80,7 @@
 
       $('.search-btn').click((e) => {
 
+
         e.preventDefault();
 
         let response = $('.response');
