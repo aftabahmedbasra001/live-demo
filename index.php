@@ -36,7 +36,7 @@
         <form action="" class="d-block w-100">
           <div class="form-group mt-3 mb-3 text-center red">
             <h3 class="text-bg-info  p-3">
-              Wait for a while let chrome extension check if the slot is available for selected city and visa type, if yes, you will see the response here!
+              Wait for a while let chrome extension check if the slot is available for selected city and visa type, if yes, you will see the response here
             </h3>
           </div>
           <div class="mb-3">
